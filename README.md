@@ -17,7 +17,6 @@ This repository is dedicated to curating a collection of great articles and book
    > " Five students can be hacking in parallel at the last minute, but they can't all be co-writing with me at the last minute. You have your own computer but you have to share your advisor."
 
 
-## Books
 
 
 
@@ -25,6 +24,15 @@ This repository is dedicated to curating a collection of great articles and book
 
 1. **["On Reading Research Papers and On Research Careers"](https://youtu.be/733m6qBH-jI?si=cT3Ef_AqeMHaEaV1) by Andrew Ng (2018)**
    - This video is part of Stanford CS230: Deep Learning, Autumn 2018 Lecture series. Andrew Ng shares practical tips on reading research papers with wise words about choosing careers for research.
+
+
+## Books
+- stay tuned!
+
+
+
+
+
 
 
 ## Contribution

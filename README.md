@@ -1,6 +1,6 @@
 # Research Resources
 
-This repository is dedicated to curating a collection of great articles and books that are essential for anyone interested in research. Whether you are a student, a researcher, or simply someone like me who loves to learn, this README will guide you to meaningfully engage with research.
+This repository is dedicated to curating a collection of great articles, books, and videos that are essential for anyone interested in research. Whether you are a student, a researcher, or simply someone like me who loves to learn, this README will guide you to jovially and meaningfully engage with research.
 
 ## <img src="img/Featured_envelope.svg.png" alt="Envelope Icon" width="30" height="30"> Articles  
 1. **["Write the Paper First" ](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html) by Jason Eisner (2010)**
